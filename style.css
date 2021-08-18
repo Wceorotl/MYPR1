@@ -1,10 +1,11 @@
 *{
     font-family: sans-serif;
-    font-weight: 700;
+    
     font-size: 20px;
 }
 ul{
-    margin-right: 30%;
+    margin-right: 15%;
+    font-weight: 700;
 }
 
 li{
