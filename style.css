@@ -15,3 +15,7 @@ li{
 .margin-b{
     margin-bottom: 10%;
 }
+
+.grey{
+    background-color: rgb(165, 165, 165);
+}
